@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-Aplicação disponível em em [Link ](https://github-explore-three.vercel.app/)
+Aplicação disponível em [Link ](https://github-explore-three.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
